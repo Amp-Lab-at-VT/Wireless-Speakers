@@ -21,7 +21,7 @@ Tsheetiz Tamang
 Tyler Shaffer
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Speakers"" >Wireless-Speakers</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Speakers" >Wireless-Speakers</a>
 
 ## Photo
 
